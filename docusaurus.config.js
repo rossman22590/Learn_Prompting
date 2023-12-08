@@ -22,17 +22,6 @@ async function createConfig() {
       locales: [
         "en",
         "es",
-        "fr",
-        "ja",
-        "pt",
-        "zh-Hans",
-        "ko",
-        "si",
-        "ru",
-        "ar",
-        "de",
-        "uk",
-        "id",
       ],
     },
     scripts: [
